@@ -11,3 +11,5 @@ Projeto criado durante Bootcamp da [Stack](https://stacktecnologias.com.br/). O 
     - [Streamlit](https://streamlit.io/) para deploy do modelo em ambiente web.
 
 Além destas, [Docker](https://www.docker.com/) foi utilizado para rodar Airflow, Minio e Mysql em containers.
+
+O aplicativo em produção pode ser visulalizado em https://share.streamlit.io/mbaltar/fullstackdatascience/streamlit/app/app.py.
